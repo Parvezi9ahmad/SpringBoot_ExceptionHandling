@@ -786,3 +786,222 @@ java.lang.UnsupportedOperationException: No language server has registered to ha
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 19:53:26.695
 !MESSAGE executing callback sts4.classpath.fcsCwuHU SUCCESS [done]
+
+!ENTRY org.eclipse.core.resources 2 2 2022-02-27 20:02:51.533
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-02-27 20:02:51.533
+!MESSAGE The project description file (.project) for 'springboot-buildingblocks-02-Hello-World' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.402
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.402
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.403
+!MESSAGE buffering callback sts4.classpath.hvsxkTfm springboot-buildingblocks-02-Hello-World false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.404
+!MESSAGE executing callback sts4.classpath.hvsxkTfm 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.405
+!MESSAGE executing callback sts4.classpath.hvsxkTfm FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2022-02-27 20:03:07.405
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.hvsxkTfm'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.412
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.413
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.416
+!MESSAGE buffering callback sts4.classpath.fcsCwuHU springboot-buildingblocks-02-Hello-World false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.416
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.417
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.417
+!MESSAGE buffering callback sts4.classpath.fcsCwuHU springboot-buildingblocks-02-Hello-World false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.418
+!MESSAGE executing callback sts4.classpath.fcsCwuHU 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.424
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.424
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.425
+!MESSAGE buffering callback sts4.classpath.hvsxkTfm springboot-buildingblocks-02-Hello-World false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.425
+!MESSAGE executing callback sts4.classpath.hvsxkTfm 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.426
+!MESSAGE executing callback sts4.classpath.hvsxkTfm FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2022-02-27 20:03:07.427
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.hvsxkTfm'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:07.518
+!MESSAGE executing callback sts4.classpath.fcsCwuHU SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.jdt 4 -1 2022-02-27 20:03:07.835
+!MESSAGE Could not download sources or javadoc
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2022-02-27 20:03:07.835
+!MESSAGE Could not read maven project
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2022-02-27 20:03:07.835
+!MESSAGE Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM E:\sts-test\springboot-buildingblocks-02-Hello-World\pom.xml: E:\sts-test\springboot-buildingblocks-02-Hello-World\pom.xml (The system cannot find the file specified) @ 
+
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[FATAL] Non-readable POM E:\sts-test\springboot-buildingblocks-02-Hello-World\pom.xml: E:\sts-test\springboot-buildingblocks-02-Hello-World\pom.xml (The system cannot find the file specified) @ 
+
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProjects(MavenImpl.java:676)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$13(ProjectRegistryManager.java:870)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:1028)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:866)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:835)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4853)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3951)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4848)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:265)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:31.498
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:31.499
+!MESSAGE buffering callback sts4.classpath.hvsxkTfm springboot-buildingblocks-02-Hello-World true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:31.500
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:31.500
+!MESSAGE buffering callback sts4.classpath.hvsxkTfm springboot-buildingblocks-02-Hello-World true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:31.501
+!MESSAGE executing callback sts4.classpath.hvsxkTfm 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:31.506
+!MESSAGE executing callback sts4.classpath.hvsxkTfm FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2022-02-27 20:03:31.506
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.hvsxkTfm'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:31.507
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:31.508
+!MESSAGE buffering callback sts4.classpath.fcsCwuHU springboot-buildingblocks-02-Hello-World true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:31.509
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:31.511
+!MESSAGE buffering callback sts4.classpath.fcsCwuHU springboot-buildingblocks-02-Hello-World true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:31.512
+!MESSAGE executing callback sts4.classpath.fcsCwuHU 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:31.547
+!MESSAGE executing callback sts4.classpath.fcsCwuHU SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:58.952
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:58.960
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:58.970
+!MESSAGE classpath=84 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:58.979
+!MESSAGE buffering callback sts4.classpath.hvsxkTfm springboot-buildingblocks-03-JPA-UserMgmtService-Base false 84
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:58.982
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:58.992
+!MESSAGE classpath=84 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:58.998
+!MESSAGE buffering callback sts4.classpath.hvsxkTfm springboot-buildingblocks-03-JPA-UserMgmtService-Base false 84
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:58.998
+!MESSAGE executing callback sts4.classpath.hvsxkTfm 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:58.998
+!MESSAGE executing callback sts4.classpath.hvsxkTfm FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2022-02-27 20:03:58.999
+!MESSAGE 
+!STACK 0
+java.lang.UnsupportedOperationException: No language server has registered to handle command 'sts4.classpath.hvsxkTfm'
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:42)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:59.012
+!MESSAGE classpath=84 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:59.018
+!MESSAGE buffering callback sts4.classpath.fcsCwuHU springboot-buildingblocks-03-JPA-UserMgmtService-Base false 84
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:59.018
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:59.025
+!MESSAGE classpath=84 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:59.031
+!MESSAGE buffering callback sts4.classpath.fcsCwuHU springboot-buildingblocks-03-JPA-UserMgmtService-Base false 84
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:59.032
+!MESSAGE executing callback sts4.classpath.fcsCwuHU 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 20:03:59.980
+!MESSAGE executing callback sts4.classpath.fcsCwuHU SUCCESS [done]

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;springboot-buildingblocks-01-ground-zero-base&apos;" deleteContents="false" description="Delete resource &apos;springboot-buildingblocks-01-ground-zero-base&apos;" element1="/springboot-buildingblocks-01-ground-zero-base" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1645971358604"/>
+</session>

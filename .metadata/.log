@@ -110,3 +110,134 @@ java.util.concurrent.TimeoutException
 	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
 	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.ui 2 2 2022-02-27 19:45:52.337
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.510
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.515
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.519
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.524
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.529
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.534
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.538
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.544
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.549
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.554
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 19:45:58.555
+!MESSAGE exists = false open = true => deleted = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 19:45:58.556
+!MESSAGE buffering callback sts4.classpath.hvsxkTfm springboot-buildingblocks-01-ground-zero-base true 0
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 19:45:58.556
+!MESSAGE executing callback sts4.classpath.hvsxkTfm 1 batched events
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.564
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.572
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.579
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.583
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.588
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.594
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.634
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.641
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.648
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.654
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.665
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.670
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.675
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.680
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.684
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.689
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.694
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.698
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.703
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.708
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.713
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.717
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.722
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.726
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-02-27 19:45:58.731
+!MESSAGE IPackageFragmentRoot is missing, skipping javadoc/source attachment for project P/springboot-buildingblocks-01-ground-zero-base
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-02-27 19:46:00.559
+!MESSAGE executing callback sts4.classpath.hvsxkTfm FAILED
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 4 0 2022-02-27 19:46:00.560
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.springframework.tooling.ls.eclipse.commons.LSP4ECommandExecutor.executeClientCommand(LSP4ECommandExecutor.java:37)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.flush(SendClasspathNotificationsJob.java:178)
+	at org.springframework.tooling.jdt.ls.commons.classpath.SendClasspathNotificationsJob.run(SendClasspathNotificationsJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)

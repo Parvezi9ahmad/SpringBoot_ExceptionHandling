@@ -4910,3 +4910,33 @@ java.lang.Exception: File not found: E:\sts-test\springboot-buildingblocks-06-Sp
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-01 16:07:09.496
 !MESSAGE executing callback sts4.classpath.fFKzSqAO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-01 16:10:29.148
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-01 16:10:29.154
+!MESSAGE classpath=1 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-01 16:10:29.155
+!MESSAGE buffering callback sts4.classpath.fFKzSqAO springboot-buildingblocks-08-SpringBoot-Internationalization false 1
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-01 16:10:29.156
+!MESSAGE executing callback sts4.classpath.fFKzSqAO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-01 16:10:29.173
+!MESSAGE executing callback sts4.classpath.fFKzSqAO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-01 16:10:29.738
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-01 16:10:29.746
+!MESSAGE classpath=87 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-01 16:10:29.752
+!MESSAGE buffering callback sts4.classpath.fFKzSqAO springboot-buildingblocks-08-SpringBoot-Internationalization false 87
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-01 16:10:29.753
+!MESSAGE executing callback sts4.classpath.fFKzSqAO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-03-01 16:10:29.787
+!MESSAGE executing callback sts4.classpath.fFKzSqAO SUCCESS [done]

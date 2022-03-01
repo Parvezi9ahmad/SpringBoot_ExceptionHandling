@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\sts-test\springboot-buildingblocks-05-Validations-GlobalExceptionHandler"/>
 			<item value="E:\sts-test\springboot-buildingblocks-04-ExceptionHandling-ResponseStatusCodes"/>
 			<item value="E:\sts-test\springboot-buildingblocks-03-JPA-UserMgmtService-Base"/>
 			<item value="E:\sts-test\springboot-buildingblocks-02-Hello-World"/>
